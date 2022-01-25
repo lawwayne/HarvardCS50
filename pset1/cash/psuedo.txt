@@ -1,0 +1,31 @@
+Approach make a counter for the amount of coins used. This will be a bit difficult. 
+
+Create individual functions to get the foo and keep subtracting until the current function becomes negative.
+
+it should then move to the next currency. 
+
+The counter should increase for each iteration it goes thorogh. 
+
+
+// for(counter=0; counter++;){
+    //     if(cents % 25 ==0){
+            
+    //         counter++;
+    //     }else if(cents % 10 == 0){
+            
+    //         counter++;
+        
+            
+    //     }else if(cents % 5 == 0 ){
+            
+    //         counter++;
+        
+            
+    //     }else if(cents % 1 == 0){
+            
+    //         counter++;
+    //     }else{
+            
+    //         printf("Final count: %i \n", counter);
+    //     }
+    // }

@@ -1,0 +1,13 @@
+I have to create a ascending pyramid and then mirror that so it should be decending 
+
+The ascending one I created 
+
+We can create two funtctions One called ascending and another called decending. 
+
+In the main the ascending and decending should only print if the input is the same and it should be seperated by a space
+
+<--------------NEW SOLUTION-------------->
+Another alternative is to create a loop and print spaces between the staircase the space should be equal. 
+
+Try to locate the variable that will be best for the loop. 
+

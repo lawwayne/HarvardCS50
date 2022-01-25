@@ -1,0 +1,21 @@
+Objectives
+
+do while loops for the hashes 1-8
+
+int blocks;
+do{
+
+blocks = get_int("Block size: ")
+
+}while(blocks <=8)
+
+
+for(int j=0; j<h; j++){
+           
+           if(h-j > i){
+            
+            printf(" ");
+
+           }else{
+               printf("#");
+           }
