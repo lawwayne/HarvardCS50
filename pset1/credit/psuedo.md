@@ -2,16 +2,16 @@
 
 - [x] First prompt the user.
 
-- [ ] See if the Luhns algorithms works for the input
-    - [ ] Create Luhn's Algorithm
+- [x] See if the Luhns algorithms works for the input
+    - [x] Create Luhn's Algorithm
 
-- [ ] If luhns algo works then check to see if initial input meets the requirements for each card type
+- [x] If luhns algo works then check to see if initial input meets the requirements for each card type
 
 - MasterCard - length 16 and begins with 51, 52, 53, 54, 55
 
     -Amex - length 15 and begins with 34 or 37
 
-        - Visa - length 13 and 16 and begins with 4
+     - Visa - length 13 and 16 and begins with 4
         
         
 ## Problems
