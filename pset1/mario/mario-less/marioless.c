@@ -2,8 +2,6 @@
 #include <cs50.h>
 
 //EASY MARIO PROBLEM
-//YOURE A FUCKING IDIOT!!!!!!!!!!!!!!!!!! 
-//You cheated for this assignment remember that. Youre fucking pathetic. 
 
 int main(void){
     
